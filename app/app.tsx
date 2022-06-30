@@ -8,7 +8,7 @@
  *
  * The app navigation resides in ./app/navigators, so head over there
  * if you're interested in adding screens and navigators.
- * git test
+ *
  * 
  */
 import "./i18n"
